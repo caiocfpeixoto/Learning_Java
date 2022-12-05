@@ -12,19 +12,20 @@ Neste repositório demonstro como está caminhando meu aprendizado com a linguag
 
 
 ## Sumário :books:
-* [Inicio](https://github.com/caiocfpeixoto/Learning_Java/edit/master/README.md#--inicio-snail) 	:snail:
+* [Inicio](https://github.com/caiocfpeixoto/Learning_Java#--inicio-snail) 	:snail:
   * Estrutura sequencial
   * Estrutura condicional
   * Estruturas repetitivas
-* [Introdução à Programação Orientada a Objetos](https://github.com/caiocfpeixoto/Learning_Java/edit/master/README.md#--introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-orientada-a-objetos-wave) :wave:
+* [Introdução à Programação Orientada a Objetos](https://github.com/caiocfpeixoto/Learning_Java#--introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-orientada-a-objetos-wave
+) :wave:
   * Construtores, palavra this, sobrecarga, encapsulamento
   * Comportamento de memória, arrays, listas
   * Tópicos especiais em Java
   * Enumerações, composição
   * Herança e polimorfismo
   * Tratamento de exceções
-* [Projeto Sistema Jogo de Xadrez](https://github.com/caiocfpeixoto/Learning_Java/edit/master/README.md#--projeto-sistema-jogo-de-xadrez-chess_pawn) :chess_pawn:
-* [POO e Programação Funcional](https://github.com/caiocfpeixoto/Learning_Java/edit/master/README.md#--poo-e-programa%C3%A7%C3%A3o-funcional-computer) :computer:
+* [Projeto Sistema Jogo de Xadrez](https://github.com/caiocfpeixoto/Learning_Java#--projeto-sistema-jogo-de-xadrez-chess_pawn) :chess_pawn:
+* [POO e Programação Funcional](https://github.com/caiocfpeixoto/Learning_Java#--poo-e-programa%C3%A7%C3%A3o-funcional-computer) :computer:
   * Trabalhando com arquivos
   * Interfaces
   * Generics, Set, Map
@@ -32,9 +33,10 @@ Neste repositório demonstro como está caminhando meu aprendizado com a linguag
   * Acesso a banco de dados com JDBC
   * Interface Gráfica com JavaFX
 * [Projeto aplicação desktop com JavaFX e banco de dados MySQL com JDBC](
-https://github.com/caiocfpeixoto/Learning_Java/edit/master/README.md#--projeto-aplica%C3%A7%C3%A3o-desktop-com-javafx-e-banco-de-dados-mysql-com-jdbc-desktop_computer) :desktop_computer:
-* [Projeto Web services com Spring Boot e JPA / Hibernate](https://github.com/caiocfpeixoto/Learning_Java/edit/master/README.md#--projeto-web-services-com-spring-boot-e-jpa--hibernate-shamrock) :shamrock:
-* [Projeto Web services com Spring Boot e NoSQL (MongoDB)](https://github.com/caiocfpeixoto/Learning_Java/edit/master/README.md#--projeto-web-services-com-spring-boot-e-nosql-mongodb-four_leaf_clover) :four_leaf_clover:
+https://github.com/caiocfpeixoto/Learning_Java#--projeto-aplica%C3%A7%C3%A3o-desktop-com-javafx-e-banco-de-dados-mysql-com-jdbc-desktop_computer) :desktop_computer:
+* [Projeto Web services com Spring Boot e JPA / Hibernate](
+https://github.com/caiocfpeixoto/Learning_Java#--projeto-web-services-com-spring-boot-e-jpa--hibernate-shamrock) :shamrock:
+* [Projeto Web services com Spring Boot e NoSQL (MongoDB)](https://github.com/caiocfpeixoto/Learning_Java#--projeto-web-services-com-spring-boot-e-nosql-mongodb-four_leaf_clover) :four_leaf_clover:
 
 <h2 align="center">
   <p align="center">Inicio :snail:</p>
